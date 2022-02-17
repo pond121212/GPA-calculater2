@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87d400a1-4b12-4af3-9915-c58f7bd3e213": {
+      "ProjectGuid": "87d400a1-4b12-4af3-9915-c58f7bd3e213",
+      "DisplayName": "GPA calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

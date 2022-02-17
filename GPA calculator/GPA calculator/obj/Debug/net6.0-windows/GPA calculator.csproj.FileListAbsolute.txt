@@ -1,0 +1,17 @@
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA_calculator.Form1.resources
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\GPA calculator.exe
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\GPA calculator.deps.json
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\GPA calculator.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\GPA calculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\ref\GPA calculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\bin\Debug\net6.0-windows\GPA calculator.pdb
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\ref\GPA calculator.dll
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.pdb
+C:\Users\ADMIN\OneDrive\เอกสาร\GitHub\GPA-calculater\GPA calculator\GPA calculator\obj\Debug\net6.0-windows\GPA calculator.genruntimeconfig.cache
